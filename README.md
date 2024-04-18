@@ -14,13 +14,9 @@ Perfil GitHub é um trabalho prático do curso de Engenharia de Software da PUC 
 
 <br>
 
-<p align="center">
-  <img alt="projeto Dav.Links" src=".github/preview.jpg" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
-Nesse trabalho, foi utilizada a linguagem de marcação HTML, CSS como linguagem de estilização e o framework Bootstra
+Nesse trabalho, foi utilizada a linguagem de marcação HTML, CSS como linguagem de estilização e o framework Bootstrap.
 
 ## 💻 Projeto
 
