@@ -1,0 +1,39 @@
+.tag{
+    background-color: #149dfb;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    max-width: 80px;
+    text-align: center;
+    min-width: 60px;
+}
+.tags-ling{
+    display: flex;
+    flex-wrap: wrap;
+}
+b{
+    color: #6cc1fc;
+}
+.textorepo {
+    margin: 0;
+    max-width: 700px;
+    word-break: break-all;
+  }
+  
+  p.caldeirao {
+    text-indent: 0;
+    display: inline;
+  }
+  p.caldeirao + p.caldeirao::before {
+    content: " ¶ ";
+  }
+  .conj-tex{
+    display: flex;
+  }
+.icones-estr{
+  margin: 35px;
+  justify-content: end;
+}
+body{
+  padding: 10px;
+}

@@ -1,0 +1,53 @@
+.conj-cardes{
+    all: unset;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .col{
+    flex-grow: 0;
+  }
+.conj-perf{
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+.conj-tex-perf{
+    margin: 10px;
+}
+.nome{
+    color: #6cc1fc;
+}
+.icones{
+    display: flex;
+}
+.icones-a{
+    font-size: x-large    ;
+    margin: 5px;
+    color: black;
+}
+.textomain {
+    margin: 0;
+    max-width: 600px;
+    word-break: break-all;
+  }
+.cardes-a{
+    color: black;
+}
+.conj-trab{
+  display: flex;
+  text-align: center;
+  flex-wrap: wrap;
+}
+.conj-tex{
+  display: flex;
+}
+.footer{
+  padding: auto;
+  text-align: center;
+  /*background-color:#c7ccd0;*/
+  margin: 0;
+}
+.carousel-inner > .carousel-item > img {
+  width: 700px;
+  height: 500px; 
+}
